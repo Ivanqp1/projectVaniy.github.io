@@ -1,0 +1,83 @@
+.gh{
+	color: #6495ED;
+	display: flex;
+}
+main{
+	background-color: #B9E0E6;
+	width: 1000px;
+	margin: 0 auto;
+}
+.h{
+	text-align: center;
+}
+.l{
+	text-align: left;
+}
+.d{
+	display: flex;
+	justify-content: center;
+}
+.jh{
+	display: flex;
+	justify-content: space-around;
+}
+.header-left {
+	width: 500px;
+	margin-left: 14px;
+}
+.header-right {
+	width: 500px;
+	margin-right: 14px;
+}
+}
+.header-left h1 {
+	color: #FFFFFF;
+	font-size: 44px;
+	font-weight: bold;
+	font-family: Courier New;
+	margin-bottom: 35px;
+}
+.gnh{
+	text-align: center;
+	
+}
+ol{
+	list-style-type: none
+}
+.fd{
+	text-align: center;
+}
+.trg{
+	display: flex;
+	justify-content: space-around;
+}
+.trfg{
+	display: flex;
+	justify-content: space-around;
+}
+.fdb{
+	text-align: center;
+}
+.ghfd{
+	display: flex;
+	justify-content: center;
+}
+.fgh{
+	display: flex;
+	justify-content: space-between;
+}
+
+.fgh div {
+	display: flex;
+	flex-direction: column;
+}
+.ghfb{
+	display: flex;
+	justify-content: space-between;
+}
+
+.ghfb div {
+	display: flex;
+	flex-direction: column;
+}
+
